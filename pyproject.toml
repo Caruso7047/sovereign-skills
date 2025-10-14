@@ -5,3 +5,4 @@ description = "20 production-grade skills for AI coding agents — setup, scope,
 requires-python = ">=3.10"
 # drop an unused branch
 # clarify the control flow
+# avoid re-reading the config on every call
